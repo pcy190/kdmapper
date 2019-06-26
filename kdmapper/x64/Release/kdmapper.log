@@ -1,0 +1,10 @@
+﻿  intel_driver.cpp
+  main.cpp
+  kdmapper.cpp
+  portable_executable.cpp
+  service.cpp
+  utils.cpp
+  正在生成代码
+  All 877 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  kdmapper.vcxproj -> C:\Users\pcy19\Desktop\kdmapper-master\x64\Release\kdmapper.exe
